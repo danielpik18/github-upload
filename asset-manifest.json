@@ -1,0 +1,16 @@
+{
+  "main.css": "/github-upload/static/css/main.e69555d0.chunk.css",
+  "main.js": "/github-upload/static/js/main.15221d97.chunk.js",
+  "main.js.map": "/github-upload/static/js/main.15221d97.chunk.js.map",
+  "runtime~main.js": "/github-upload/static/js/runtime~main.912da764.js",
+  "runtime~main.js.map": "/github-upload/static/js/runtime~main.912da764.js.map",
+  "static/js/2.f7f5fe26.chunk.js": "/github-upload/static/js/2.f7f5fe26.chunk.js",
+  "static/js/2.f7f5fe26.chunk.js.map": "/github-upload/static/js/2.f7f5fe26.chunk.js.map",
+  "index.html": "/github-upload/index.html",
+  "precache-manifest.9ace94bd8fdd46a9c9545b729c816065.js": "/github-upload/precache-manifest.9ace94bd8fdd46a9c9545b729c816065.js",
+  "service-worker.js": "/github-upload/service-worker.js",
+  "static/css/main.e69555d0.chunk.css.map": "/github-upload/static/css/main.e69555d0.chunk.css.map",
+  "static/media/slide_one.jpg": "/github-upload/static/media/slide_one.84753208.jpg",
+  "static/media/slide_three.jpg": "/github-upload/static/media/slide_three.9aa09a50.jpg",
+  "static/media/slide_two.jpg": "/github-upload/static/media/slide_two.3a3ffd36.jpg"
+}
