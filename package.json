@@ -1,6 +1,6 @@
 {
   "name": "the-venue",
-  "homepage": "https://danielpik18.github.io/github-upload",
+  "homepage": "https://danielpik18.github.io/react-site-1/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "react-dom": "^16.8.6",
     "react-reveal": "^1.2.2",
     "react-scripts": "2.1.8",
+    "react-scroll": "^1.7.11",
     "react-slick": "^0.23.2"
   },
   "scripts": {
